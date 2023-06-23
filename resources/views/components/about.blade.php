@@ -19,7 +19,7 @@
           {{-- <img src="/assets/img/avatars/team1.jpg" style="width: 80px;height: 80px;border-radius: 50%;" class="svg-inject icon-svg icon-svg-md mb-4" alt="" /> --}}
           <span class="far fa-info-circle" style="color:#0194fe"></span>
            من نحن؟</h2>
-        <p class="lead fs-lg">موقع الهاشمى التعليمى لشرح المواد الدراسية</p>
+        <p class="lead fs-lg">موقع فارادي التعليمى لشرح المواد الدراسية</p>
         <p class="mb-6">شروحات مبسطه، طرق مبتكرة، احدث الأساليب العلمية المتبعة</p>
         <div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
