@@ -24,17 +24,17 @@
 </head>
 
 <body class="" id="top">
-    <div class=" pt-2 pb-2 bg-green ">
+    <div class=" pt-2 pb-2 bg-info text-light ">
         <p class="ps-5 text-light h4">تطبيق فاراداي </p>
     </div>
 
     <section id="list-services">
         <div class="container">
-            <h5 class="text-oringe">سياسة الخصوصية الخاص بتطبيق فاراداي</h5>
+            <h5 class="text-primary">سياسة الخصوصية الخاص بتطبيق فاراداي</h5>
             <ul class="list-group">
                 <li class="list-group-item">
                     <p>
-                        <button id="Privacy1" class="btn text-oringe btn-custom" type="button" data-bs-toggle="collapse" data-bs-target="#Privacy" aria-expanded="true" aria-controls="Privacy">
+                        <button id="Privacy1" class="btn text-primary btn-custom" type="button" data-bs-toggle="collapse" data-bs-target="#Privacy" aria-expanded="true" aria-controls="Privacy">
                             سياستنا
                             <i class="fa fa-chevron-up" aria-hidden="true"></i>
                         </button>
@@ -55,7 +55,7 @@
                 </li>
                 <li class="list-group-item">
                     <p>
-                        <button id="Privacy1" class="btn text-oringe btn-custom" type="button" data-bs-toggle="collapse" data-bs-target="#Privacy" aria-expanded="true" aria-controls="Privacy">
+                        <button id="Privacy1" class="btn text-primary btn-custom" type="button" data-bs-toggle="collapse" data-bs-target="#Privacy" aria-expanded="true" aria-controls="Privacy">
                             سياسة المستخدم
                             <i class="fa fa-chevron-up" aria-hidden="true"></i>
                         </button>
@@ -72,7 +72,7 @@
                 </li>
                 <li class="list-group-item">
                     <p>
-                        <button id="Privacy1" class="btn text-oringe btn-custom" type="button" data-bs-toggle="collapse" data-bs-target="#Privacy" aria-expanded="true" aria-controls="Privacy">
+                        <button id="Privacy1" class="btn text-primary btn-custom" type="button" data-bs-toggle="collapse" data-bs-target="#Privacy" aria-expanded="true" aria-controls="Privacy">
                             سياسة الأشتراك
                             <i class="fa fa-chevron-up" aria-hidden="true"></i>
                         </button>
@@ -93,7 +93,7 @@
     </section>
 
     <footer>
-        <div class="footer">
+        <div class="footer bg-info">
             {{-- <div class="icon">
                 <i class="fa fa-snapchat"></i>
             </div>
@@ -107,8 +107,8 @@
                 <i class="fa fa-twitter"></i>
             </div> --}}
 
-            <p class="pt-3 m-0">حقوق الطباعة والنشر محفوظ لأحمد مرعي</p>
-            <span>Copyright &copy; GAMA Team.</span>
+            <p class="pt-3 m-0 text-light">حقوق الطباعة والنشر محفوظ لأحمد مرعي</p>
+            <span class="text-light">Copyright &copy; GAMA Team.</span>
 
         </div>
     </footer>
