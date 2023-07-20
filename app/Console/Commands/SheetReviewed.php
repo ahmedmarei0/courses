@@ -29,6 +29,8 @@ class SheetReviewed extends Command
      */
     public function handle()
     {
+        echo \Carbon\Carbon::now();
+        return 0;
         // Get all attachment that is not reviewed
         $attachments = \App\Models\Attachments::where('state', 'waiting')
             ->whereDate('final_date_receive', '<=', \Carbon\Carbon::now()->format('y-m-d h:m:s'))->get();
